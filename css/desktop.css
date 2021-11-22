@@ -1,0 +1,17 @@
+/*Desktop*/
+
+@media all and (max-width:1440px)
+{
+    .page_wrapper{
+        width: 90%;
+    }
+    .more
+    {
+        margin-left: 4%;
+    }
+    footer section
+    {
+        width: 70%;
+        margin: 50px auto 0 auto;
+    }
+}
